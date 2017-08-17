@@ -74,6 +74,62 @@ module.exports = {
                 "18 inches",
                 "1 inch"
             ]
+        },
+        {
+            "What is the length of the longest Whale shark?":[
+                "41 feet",
+                "100 feet",
+                "20 feet",
+                "15 feet"
+            ]
+        },
+        {
+            "How fast can a Shortfin Mako Shark swim for a burst of speed?":[
+                "31 mph",
+                "55 mph",
+                "20 mph",
+                "100 mph"
+            ]
+        },
+        {
+            "What is the average number of fatalities worldwide per year from unprovoked shark attacks?":[
+                "four",
+                "100",
+                "1000",
+                "26"
+            ]
+        },
+        {
+            "What year did the American thriller film Jaws release?":[
+                "1975",
+                "1968",
+                "1988",
+                "1972"
+            ]
+        },
+        {
+            "How heavy are Great White Sharks?":[
+                "4300 pounds",
+                "1000 pounds",
+                "500 pounds",
+                "50,000 pounds"
+            ]
+        },
+        {
+            "What is the average lifespan of Great White Sharks?":[
+                "70 years",
+                "12 years",
+                "25 years", 
+                "40 years"
+            ]
+        },
+        {
+            "How many Great White Sharks are estimated to live along the California coastline?":[
+                "2400",
+                "10,000",
+                "100,000",
+                "500"
+            ]
         }
     ],
     "QUESTIONS_EN_US" : [
@@ -144,6 +200,62 @@ module.exports = {
                 "1 foot",
                 "18 inches",
                 "1 inch"
+            ]
+        },
+        {
+            "What is the length of the longest Whale shark?":[
+                "41 feet",
+                "100 feet",
+                "20 feet",
+                "15 feet"
+            ]
+        },
+        {
+            "How fast can a Shortfin Mako Shark swim for a burst of speed?":[
+                "31 mph",
+                "55 mph",
+                "20 mph",
+                "100 mph"
+            ]
+        },
+        {
+            "What is the average number of fatalities worldwide per year from unprovoked shark attacks?":[
+                "four",
+                "100",
+                "1000",
+                "26"
+            ]
+        },
+        {
+            "What year did the American thriller film Jaws release?":[
+                "1975",
+                "1968",
+                "1988",
+                "1972"
+            ]
+        },
+        {
+            "How heavy are Great White Sharks?":[
+                "4300 pounds",
+                "1000 pounds",
+                "500 pounds",
+                "50,000 pounds"
+            ]
+        },
+        {
+            "What is the average lifespan of Great White Sharks?":[
+                "70 years",
+                "12 years",
+                "25 years", 
+                "40 years"
+            ]
+        },
+        {
+            "How many Great White Sharks are estimated to live along the California coastline?":[
+                "2400",
+                "10,000",
+                "100,000",
+                "500"
             ]
         }
     ]
