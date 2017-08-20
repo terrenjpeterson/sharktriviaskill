@@ -10,6 +10,8 @@ var GAME_STATES = {
 };
 var questions = require("./questions");
 
+var VoiceLabs = require("voicelabs")('1c200e00-85bf-11a7-1b47-0e2486876586');
+
 /**
  * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
  * Make sure the first answer is the correct one. Set at least ANSWER_COUNT answers, any extras will be shuffled in.
@@ -146,7 +148,9 @@ var startStateHandlers = Alexa.CreateStateHandler(GAME_STATES.START, {
 
         // Set the current state to trivia mode. The skill will now use handlers defined in triviaStateHandlers
         this.handler.state = GAME_STATES.TRIVIA;
-        this.emit(":askWithCard", speechOutput, repromptText, this.t("GAME_NAME"), repromptText);
+	VoiceLabs.track(this.event.session, 'Start Game', null, speechOutput, (error, response) => {
+            this.emit(":askWithCard", speechOutput, repromptText, this.t("GAME_NAME"), repromptText);
+	});
     }
 });
 
