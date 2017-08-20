@@ -130,7 +130,57 @@ module.exports = {
                 "100,000",
                 "500"
             ]
-        }
+        },
+        {
+            "How many pups does a Nurse Shark have when they reproduce?":[
+		"25",
+                "one",
+                "five",
+                "two",
+                "100"
+            ]
+	},
+	{
+	    "What color are adult Nurse Sharks?":[
+		"brown",
+                "grey",
+                "white",
+		"orange",
+		"blue"
+	    ]
+	},
+	{
+	    "How many gill slits do sharks normally have?":[
+		"five",
+		"seven",
+		"three",
+		"nine"
+	    ]
+	},
+	{
+	    "What is a common characteristic of the Cow Shark family?":[
+		"They have additional gill slits.",
+		"They swim in deeper water.",
+		"They are found only in the Atlantic.",
+		"They require milk to survive."
+	    ]
+	},
+	{
+	    "How many dorsal fins do sharks from the Squaliformes or Dogfish family have?":[
+		"two",
+		"one",
+		"four",
+		"five"
+	    ]
+	},
+	{
+	    "Why characteristic is given to the Somniosidae family of sharks, also known as sleeper sharks?":[
+		"They are percieved as non-aggressive as they are slow swimming and have a low activity level.",
+		"They make nests that appear to look like sleeping bags.",
+		"They commonly sleep for 23 hours a day.",
+		"They only exist in dreams."
+	    ]
+	}
     ],
     "QUESTIONS_EN_US" : [
         {
@@ -257,6 +307,56 @@ module.exports = {
                 "100,000",
                 "500"
             ]
-        }
+        },
+        {
+            "How many pups does a Nurse Shark have when they reproduce?":[
+		"25",
+                "one",
+                "five",
+                "two",
+                "100"
+            ]
+	},
+	{
+	    "What color are adult Nurse Sharks?":[
+		"brown",
+                "grey",
+                "white",
+		"orange",
+		"blue"
+	    ]
+	},
+	{
+	    "How many gill slits do sharks normally have?":[
+		"five",
+		"seven",
+		"three",
+		"nine"
+	    ]
+	},
+	{
+	    "What is a common characteristic of the Cow Shark family?":[
+		"They have additional gill slits.",
+		"They swim in deeper water.",
+		"They are found only in the Atlantic.",
+		"They require milk to survive."
+	    ]
+	},
+	{
+	    "How many dorsal fins do sharks from the Squaliformes or Dogfish family have?":[
+		"two",
+		"one",
+		"four",
+		"five"
+	    ]
+	},
+	{
+	    "Why characteristic is given to the Somniosidae family of sharks, also known as sleeper sharks?":[
+		"They are percieved as non-aggressive as they are slow swimming and have a low activity level.",
+		"They make nests that appear to look like sleeping bags.",
+		"They commonly sleep for 23 hours a day.",
+		"They only exist in dreams."
+	    ]
+	}
     ]
 };
