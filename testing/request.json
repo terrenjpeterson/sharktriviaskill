@@ -1,0 +1,40 @@
+{
+  "session": {
+    "new": false,
+    "sessionId": "SessionId.25cf7c50-34ef-4b1c-b141-4ab62f2f7aa5",
+    "application": {
+      "applicationId": "amzn1.ask.skill.265d6bd0-4554-4f29-9168-c42ce0c5ede2"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.A123"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.893a579f-f82c-4730-9286-11a6a10b26d0",
+    "intent": {
+      "name": "AMAZON.StartOverIntent",
+      "slots": {}
+    },
+    "locale": "en-US",
+    "timestamp": "2018-01-05T03:06:58Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.265d6bd0-4554-4f29-9168-c42ce0c5ede2"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.A123"
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
+}
